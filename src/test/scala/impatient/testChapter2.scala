@@ -1,5 +1,7 @@
+package impatient
+
+import impatient.Chapter2._
 import org.scalatest.FunSuite
-import Chapter2._
 
 class testChapter2 extends FunSuite {
 

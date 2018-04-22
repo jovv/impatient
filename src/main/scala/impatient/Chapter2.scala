@@ -1,4 +1,5 @@
-import java.lang.String
+package impatient
+
 import java.time.LocalDate
 
 object Chapter2 {

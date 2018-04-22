@@ -1,3 +1,5 @@
+package impatient
+
 object Chapter1 {
   def main(args: Array[String]): Unit = {
     println(3.toString)

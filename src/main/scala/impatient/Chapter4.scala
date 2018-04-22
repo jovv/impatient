@@ -1,11 +1,12 @@
+package impatient
+
 import java.io.File
 import java.util
 import java.util.Scanner
 
-import scala.collection.mutable
-import scala.collection.SortedMap
 import scala.collection.JavaConversions.{mapAsScalaMap, propertiesAsScalaMap}
 import scala.collection.immutable.ListMap
+import scala.collection.{SortedMap, mutable}
 
 object Chapter4 extends App {
 
